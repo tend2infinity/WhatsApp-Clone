@@ -68,6 +68,7 @@
     display: flex;
 }
 .chat-footer > form > input {
+    outline-width: 0;
     flex: 1;
     border-radius: 30px;
     padding: 10px;
